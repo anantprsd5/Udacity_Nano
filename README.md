@@ -1,5 +1,7 @@
 # App Launch Tray
 
+<img src="/app/src/main/res/drawable/blueback.jpg">
+
 ## Command Line instructions on how to install
 
 * _chmod +x gradlew_ - This command only needs to be run once and is used to give gradlew the correct execute permissions.
