@@ -1,4 +1,4 @@
-# App Launch Tray
+# Popular Movies Application
 
 ## Date - 02/09/17
 
