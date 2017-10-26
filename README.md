@@ -1,6 +1,6 @@
 # App Launch Tray
 
-Date - 2/09/17
+Date - 02/09/17
 
 ## Command Line instructions on how to install
 
