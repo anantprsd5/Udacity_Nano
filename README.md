@@ -1,6 +1,6 @@
 # App Launch Tray
 
-<img src="/app/src/main/res/drawable/blueback.jpg">
+
 
 ## Command Line instructions on how to install
 
