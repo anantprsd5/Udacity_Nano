@@ -1,4 +1,4 @@
-# Popular Movies Application
+# Popular Movies Application - Nanodegree
 
 ## Date - 03/09/17
 
