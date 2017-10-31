@@ -1,6 +1,6 @@
-# Popular Movies Application
+# Popular Movies Application - Nanodegree
 
-## Date - 02/09/17
+## Date - 03/09/17
 
 ## Command Line instructions on how to install
 
